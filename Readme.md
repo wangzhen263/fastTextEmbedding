@@ -1,5 +1,5 @@
 # fastText word embedding
-This is simple python application based on [fastText](https://github.com/facebookresearch/fastText) fastText to generate word embeddings on your dataset.
+This is simple python application based on [fastText](https://github.com/facebookresearch/fastText) to generate word embeddings on your dataset.
 
 ## Getting Started
 - Make sure that you have installed python and [virtualenv](https://virtualenv.pypa.io/en/stable/).
