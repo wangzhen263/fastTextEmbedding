@@ -10,7 +10,7 @@ $ bash setup.py
 ```
 
 ## NOTE
-**python generateEmbeddings.py** must run in the virtual environment. just do:
+**python generateEmbeddings.py** must run in the **virtual environment**. just do:
 
 ```bash
 $ source bin/activate
