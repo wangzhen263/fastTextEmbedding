@@ -6,7 +6,7 @@ This is simple python application based on [fastText](https://github.com/faceboo
 - just install dependencies:
 
 ```bash
-$ pip install .
+$ bash setup.py
 ```
 
 ## NOTE
